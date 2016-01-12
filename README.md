@@ -1,2 +1,6 @@
-# hello-world
-Just another repository
+hello-world
+===========
+
+Hello Humans!
+
+This is the proposed read-me file.
